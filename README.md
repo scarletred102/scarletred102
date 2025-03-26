@@ -1,5 +1,5 @@
 # [Transmission Initiated]  
-## *Codex Designation: [Your Name]*  
+## *Codex Designation: [Sai C]*  
 ### *Navigational Log: Wandering the Infinite Circuits of the Tech Nebula*
 
 ---
