@@ -1,27 +1,59 @@
-# 💫 About Me:
-I'm a CS undergrad.<br>currently wandering all the tech fields,<br>to look for one that i'd fit in!
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pueE7UvdB4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sazaa.09) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kraken9826) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rockierock059@gmail.com) 
-
-# 💻 Tech Stack:
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=flat&logo=tauri&logoColor=%23FFFFFF) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=scarletred102&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=scarletred102&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=scarletred102&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=scarletred102&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=scarletred102&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# [Transmission Initiated]  
+## *Codex Designation: [Your Name]*  
+### *Navigational Log: Wandering the Infinite Circuits of the Tech Nebula*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=scarletred102&icon=8&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## [System Profile]  
+I’m a CS undergrad, a rogue operator jacked into the datastreams of the tech cosmos. My mission: explore every sector—from the neon-lit sprawl of web grids to the quantum cores of AI and the holographic battlegrounds of game dev. I’m a digital nomad, patched into the mainframe, searching for my node in this galaxy of code. Status: *Online. Scanning. Adapting.*
+
+---
+
+## [Tech Arsenal // Sector Scan]  
+Deployed protocols and tools, mapped across the grid:
+
+### [Web Grid Interface]  
+- **TypeScript**, **JavaScript**: *Scripting the neon highways.*  
+- **Next.js**, **Vue.js**, **TailwindCSS**: *Rendering holographic UIs.*  
+- **WebGL**, **Vite**: *Overclocking visual reactors.*  
+- *Objective: Forge portals to the digital frontier.*
+
+### [Core Systems Relay]  
+- **Go**, **Rust**: *Hardened alloys for interstellar throughput.*  
+- **Node.js**, **FastAPI**: *Piping data through the void.*  
+- **PostgreSQL**, **Supabase**, **DynamoDB**: *Databanks humming in the ether.*  
+- *Objective: Stabilize the backbone of the network.*
+
+### [Experimental Quantum Array]  
+- **Unity**, **Unreal Engine**: *Simulating realities beyond the veil.*  
+- **TensorFlow**: *Training neural constructs in the deep grid.*  
+- **AssemblyScript**, **OpenGL**: *Low-level hacks into the matrix.*  
+- *Objective: Push the boundaries of the unknown.*
+
+*[Warning: Systems in flux. Expect uplink updates.]*
+
+---
+
+## [Comm Channels // Open Frequencies]  
+- 📡 *Email Relay*: [rockierock059@gmail.com](mailto:rockierock059@gmail.com)  
+- 🎮 *Twitch Stream Node*: [kraken9826](https://twitch.tv/kraken9826)  
+- 💬 *Discord Hub*: [Access Grid](https://discord.gg/pueE7UvdB4)  
+- 📸 *Insta Holo-Feed*: [sazaa.09](https://instagram.com/sazaa.09)  
+- 📜 *Notion Datavault - Bittersweet*: [Access Core](https://bittersweet-bs.notion.site/)  
+
+---
+
+## [Activity Telemetry]  
+Live feed from the GitHub quadrant:  
+![Language Matrix](https://github-readme-stats.vercel.app/api/top-langs/?username=scarletred102&theme=radical&hide_border=true&layout=compact)  
+![System Diagnostics](https://github-readme-stats.vercel.app/api?username=scarletred102&theme=radical&hide_border=true&include_all_commits=true)  
+
+*[Incoming transmission: Seeking co-pilots for uncharted code runs.]*
+
+---
+
+## [Log Entry // Codex Fragment]  
+> “In the silence of the void, the code whispers truths. Sometimes it screams errors. Both are signals from the abyss.”  
+> — *Log #392, 3:17 AM, post-stacktrace enlightenment*  
+
+*[End Transmission] // Stay wired, traveler.* 🚀  
